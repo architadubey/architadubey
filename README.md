@@ -10,18 +10,20 @@
 
 ## 🧠 A little about me
 
-```javascript
-const archita = {
-  location: "Chandigarh, India 🇮🇳",
-  currentlyStudying: "MCA @ Chandigarh University (2025 - 2027)",
-  role: ["Full Stack Developer", "Data Analyst", "Perpetual Learner"],
-  codesIn: ["JavaScript", "SQL", "Python (basics)"],
-  buildsWith: ["React.js", "Node.js", "MongoDB", "REST APIs"],
-  crunchesDataWith: ["Power BI", "Excel", "EDA", "Dashboards"],
-  currentFocus: "Building PrepAI 🤖 — an AI exam-prep platform",
-  funFact: "I'd rather clean a messy dataset than a messy room 🧹📊"
-};
-```
+<div align="center">
+
+| | |
+|---|---|
+| 📍 **Based in** | Chandigarh, India |
+| 🎓 **Studying** | MCA @ Chandigarh University *(2025 – 2027)* |
+| 🧑‍💻 **Wearing hats as** | Full Stack Developer · Data Analyst · Perpetual Learner |
+| ⌨️ **Code in** | JavaScript · SQL · Python *(basics)* |
+| 🏗️ **Build with** | React.js · Node.js · MongoDB · REST APIs |
+| 📊 **Crunch data with** | Power BI · Excel · EDA · Dashboards |
+| 🚀 **Right now** | Building **PrepAI** 🤖 — an AI exam-prep platform |
+| ✨ **Fun fact** | I'd rather clean a messy dataset than a messy room 🧹 |
+
+</div>
 
 <br/>
 
@@ -144,7 +146,7 @@ Boosted data accuracy by **~15%**, hunted down inconsistencies, made cross-team 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/archita-dubey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/archita-dubey-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dubeyarchita24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/architadubey" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
